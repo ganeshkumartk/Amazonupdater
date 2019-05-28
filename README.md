@@ -1,4 +1,4 @@
-# Amazon-Updates
+# Amazonupdater
 
 Never miss the lowest prices of your favorite products again.
 
